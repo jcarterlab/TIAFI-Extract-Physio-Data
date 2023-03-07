@@ -3,4 +3,4 @@ This notebook extracts and translates physiotherapy data from Arabic word docume
 
 <br/>
 
-The notebook can be found [here.](Extract physiotherapy data.ipynb)
+The notebook can be found [here.](extract_physiotherapy_data.ipynb)
